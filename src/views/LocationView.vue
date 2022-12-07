@@ -63,5 +63,10 @@ export default {
 </script>
 
 <style lang="scss">
-
+    @media only screen and (max-width: 768px){
+        p{
+            padding-left: 7px;
+            padding-right: 7px;
+        }
+    }
 </style>

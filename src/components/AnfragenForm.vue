@@ -94,6 +94,15 @@
     input{
         background-color: white !important;
     }
+
+    #anfrageForm{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    h3{
+        padding-left: 10px;
+    }
 </style>
 
 <script>
